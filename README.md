@@ -20,7 +20,7 @@ ENTF.py
     --> Legendre(x, p): Legendre symbol  
     --> PF_* : GF(2^n) Field Arithmetic  
 
-SM2.py
+SM2.py  
     --> moddiv(a, b, p): modular division b/a mod p  
     --> ECSM/PA/PD:   Affine Coornidate Elliptic Curve Arithmetic  
     --> ECSM_P/PA_P/PD_P:  Projective Coordinate Elliptic Curve Arithmetic  
